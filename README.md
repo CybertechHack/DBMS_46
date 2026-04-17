@@ -1,3 +1,20 @@
+# 📌 Project Submission Repository
+
+This repository contains all required submissions as per guidelines.
+
+---
+
+| Sr No. | Description                          | Link |
+|--------|--------------------------------------|------|
+| 1      | Project Code                         | [Link](https://github.com/CybertechHack/DBMS_46) |
+| 2      | Project Report                       | [Link](https://drive.google.com/file/d/1xcnZkP036Hp5mdfXe0wZ9sRx_b8FWl68/view?usp=share_link) |
+| 3      | Final PPT                            | [NIL](#) |
+| 4      | RA2411030003043 Certificate          | [LINK](https://drive.google.com/file/d/1whSLicNzjsfeSqOoqq6YJEz_ntmFNuKX/view?usp=share_link) |
+| 5      | RA2411030003043 Course Report        | [Link](https://drive.google.com/file/d/1XXCNsEX-PDgbhMHlMy3DumFcorqKpuef/view?usp=share_link) |
+
+
+---
+
 # ⚔️ MIMS | Military Inventory Management System
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
