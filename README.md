@@ -7,10 +7,10 @@ This repository contains all required submissions as per guidelines.
 | Sr No. | Description                          | Link |
 |--------|--------------------------------------|------|
 | 1      | Project Code                         | [Link](https://github.com/CybertechHack/DBMS_46) |
-| 2      | Project Report                       | [Link](https://github.com/CybertechHack/DBMS_46/blob/main/DBMS%20SHIVAM%20PROJECT%20REPORT.pdf) |
+| 2      | RA2411030030046 Project Report                       | [Link](https://github.com/CybertechHack/DBMS_46/blob/main/DBMS%20SHIVAM%20PROJECT%20REPORT.pdf) |
 | 3      | Final PPT                            | [NIL](#) |
 | 4      | RA2411030003046 Certificate          | [LINK](https://github.com/CybertechHack/DBMS_46/blob/main/SHIVAM%20CERTIFICATE.pdf) |
-| 5      | RA2411030003046 Course Report        | [Link](https://drive.google.com/file/d/1XXCNsEX-PDgbhMHlMy3DumFcorqKpuef/view?usp=share_link) |
+| 5      | RA2411030003046 Course Report        | [Link](https://github.com/CybertechHack/DBMS_46/blob/main/DBMS%20SHIVAM%20COURSE%20REPORT.pdf) |
 
 
 ---
